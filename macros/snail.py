@@ -9,8 +9,9 @@ def run():
     while True:
         print("   -> Jump/Gliding...")
         # Hold space for 3 seconds
-        core.hold_key("space", 3)
+        core.hold_key("space", 1.5)
+        core.hold_key("space", 1.5)
 
-        print("   -> Waiting 5 minutes...")
-        # Wait 5 minutes (300 seconds)
-        time.sleep(300)
+        print("   -> Waiting 1 minutes...")
+        # Wait 1 minutes (60 seconds)
+        time.sleep(60)
