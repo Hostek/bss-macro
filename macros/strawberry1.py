@@ -14,7 +14,7 @@ def run():
 
         print("   -> Main Navigation Path...")
         core.hold_key("w", 3)
-        core.hold_key("d", 10)
+        core.hold_key("d", 4)
         core.hold_key("a", 2.5)
         core.hold_key("s", 20)
 
