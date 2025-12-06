@@ -5,7 +5,7 @@ Bee swarm simulator AFK macros. Easy to use. Linux only
 
 Right now there is only strawberry macro and snail macro (you need to stand in stamp field)
 
-It's not perfect. Like, it doesn't work for all hive slots, and only for certain move speed, but it can be upgraded in the future.
+It's not perfect. Like, it doesn't work for all hive slots (only those 3 near the cannon), and only for certain move speed, but it can be upgraded in the future. (it also doesn't check for correct camera spawn angle)
 
 ## Starting guide
 
