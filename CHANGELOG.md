@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [2.0.0] – 06.12.2025
 
 ### Added
 - basic snail macro
